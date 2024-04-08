@@ -1285,9 +1285,9 @@
     z-index: 9;
     padding: 0!important;
     margin: 0!important;
-    background: -webkit-gradient(linear,left top,left bottom,from(rgba(173,71,75,.7)),color-stop(80%,rgba(0,0,4,.8)));
-    background: -o-linear-gradient(rgba(173,71,75,.7),rgba(0,0,4,.8) 80%);
-    background: linear-gradient(rgba(173,71,75,.7),rgba(0,0,4,.8) 80%)
+    background: -webkit-gradient(linear,left top,left bottom,from(rgba(30,131,169,.7)),color-stop(80%,rgba(0,0,4,.8)));
+    background: -o-linear-gradient(rgba(30,131,169,.7),rgba(0,0,4,.8) 80%);
+    background: linear-gradient(rgba(30,131,169,.7),rgba(0,0,4,.8) 80%)
 }
 
 @media (max-width: 580px) {
