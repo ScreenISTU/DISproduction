@@ -8011,7 +8011,7 @@ parcelRequire = function(e, r, t, n) {
                             amount: .5,
                             from: "random"
                         },
-                        backgroundColor: "rgba(173, 71, 75, 0.35)",
+                        backgroundColor: "rgba(71, 145, 173, 0.35)",
                         ease: "sine.inOut",
                         delay: 1
                     }).to(this.lines, {
@@ -8019,7 +8019,7 @@ parcelRequire = function(e, r, t, n) {
                             amount: .5,
                             from: "random"
                         },
-                        backgroundColor: "rgba(173, 71, 75, 0)",
+                        backgroundColor: "rgba(71, 145, 173, 0)",
                         ease: "sine.inOut"
                     }, "-=0.5"))
                 }
