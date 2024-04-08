@@ -3892,7 +3892,7 @@ body iframe,body iframe:active,body iframe:focus,body iframe:hover,body video,bo
     height: 90px;
     margin: auto;
     background: -o-radial-gradient(circle,#a23d41,#c05f63 60%);
-    background: radial-gradient(circle,#a23d41,#c05f63 60%);
+    background: radial-gradient(circle,#202ACB,#5F5FC0 60%);
     border-radius: 100%;
     -webkit-animation: sk-spinner-pulse .9s ease-in-out infinite;
     animation: sk-spinner-pulse .9s ease-in-out infinite
