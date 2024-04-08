@@ -14072,7 +14072,7 @@ parcelRequire = function(e, r, t, n) {
                     "undefined" != typeof videoData && videoData.materials.length > 0)
                         for (var e in videoData.materials) {
                             switch (videoData.materials[e].desc.split(/\r\n|\r|\n/g)[0].split(" ")[0].toUpperCase()) {
-                            case "КОРОТКИЕ ИСТОРИИ":
+                            case "СЛОВА":
                                 this.wordsVideoArray.push(videoData.materials[e]);
                                 break;
                             case "ЗВЕЗДЫ":
