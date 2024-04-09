@@ -661,9 +661,9 @@
 .main__long-bg-wrapper {
     position: relative;
     z-index: 39;
-    background: -webkit-gradient(linear,left top,left bottom,from(#000004),color-stop(7%,rgba(0,0,0,0))),url(../image/фон.png) no-repeat;
-    background: -o-linear-gradient(top,#000004,rgba(0,0,0,0) 7%),url(../image/фон.png) no-repeat;
-    background: linear-gradient(180deg,#000004,rgba(0,0,0,0) 7%),url(../image/фон.png) no-repeat;
+    background: -webkit-gradient(linear,left top,left bottom,from(#000004),color-stop(7%,rgba(0,0,0,0))),url(DISproduction/image/фон.png) no-repeat;
+    background: -o-linear-gradient(top,#000004,rgba(0,0,0,0) 7%),url(DISproduction/image/фон.png) no-repeat;
+    background: linear-gradient(180deg,#000004,rgba(0,0,0,0) 7%),url(DISproduction/image/фон.png) no-repeat;
     background-color: #e2e4e5;
     background-position: top;
     background-size: 100% auto
