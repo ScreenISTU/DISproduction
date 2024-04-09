@@ -7866,7 +7866,7 @@ parcelRequire = function(e, r, t, n) {
                         duration: 1.85,
                         separator: " "
                     }
-                      , t = new n.CountUp(this.figure_1,40,u(u({}, e), {}, {
+                      , t = new n.CountUp(this.figure_1,88,u(u({}, e), {}, {
                         suffix: "%"
                     }))
                       , i = new n.CountUp(this.figure_2,15381,e)
@@ -7881,7 +7881,7 @@ parcelRequire = function(e, r, t, n) {
                         duration: 1.45,
                         separator: " "
                     }
-                      , t = new n.CountUp(this.figure_1,40,u(u({}, e), {}, {
+                      , t = new n.CountUp(this.figure_1,88,u(u({}, e), {}, {
                         suffix: "%"
                     }))
                       , i = new n.CountUp(this.figure_2,15381,e)
