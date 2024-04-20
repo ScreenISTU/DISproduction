@@ -1,3 +1,12 @@
+.photo-grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.photo-grid img {
+  width: 25%; /* Чтобы каждая фотография занимала 25% ширины контейнера */
+}
+
 @font-face {
     font-family: Proxima Nova;
     font-style: bold;
@@ -172,6 +181,7 @@
     -o-transition: .3s ease-out;
     transition: .3s ease-out
 }
+
 
 @media (max-width: 1023px) {
     .soc-net-share-up .soc-net-share__list {
