@@ -22,11 +22,13 @@
 }
 
 .photo-grid2 {
+  align: center;
   display: flex;
   flex-wrap: wrap;
 }
 
 .photo-grid2 img {
+  align: center;
   width: 40%; /* Чтобы каждая фотография занимала 25% ширины контейнера */
    margin: 10px;
 }
