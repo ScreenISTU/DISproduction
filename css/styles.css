@@ -1,3 +1,13 @@
+.video-grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.video-grid iframe {
+  width: 50%;
+  margin: 10px;
+}
+
 .photo-grid {
   display: flex;
   flex-wrap: wrap;
