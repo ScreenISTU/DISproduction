@@ -30,7 +30,7 @@
 .photo-grid2 img {
   align-items: center;
   width: 40%; /* Чтобы каждая фотография занимала 25% ширины контейнера */
-   margin: 10px;
+   margin: 5px;
 }
 
 @font-face {
