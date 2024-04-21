@@ -10,6 +10,7 @@
 }
 
 .photo-grid {
+  align: center;
   display: flex;
   flex-wrap: wrap;
 }
@@ -17,6 +18,16 @@
 .photo-grid img {
   width: 20%; /* Чтобы каждая фотография занимала 25% ширины контейнера */
    margin: 5px;
+}
+
+.photo-grid2 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.photo-grid2 img {
+  width: 40%; /* Чтобы каждая фотография занимала 25% ширины контейнера */
+   margin: 10px;
 }
 
 @font-face {
