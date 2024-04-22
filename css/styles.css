@@ -1561,7 +1561,7 @@
 
 .opening-screen__figures-box {
     position: relative;
-    width: 770px;
+    width: 500px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
