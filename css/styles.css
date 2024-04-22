@@ -33,7 +33,7 @@
 justify-content: center;
 }
 
-.photo-grid2 img {
+.photo-grid2 a {
   width: 40%; /* Чтобы каждая фотография занимала 25% ширины контейнера */
    margin: 5px;
 }
