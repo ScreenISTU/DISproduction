@@ -28,9 +28,9 @@
 }
 
 .photo-grid2 {
-  align: center;
   display: flex;
   flex-wrap: wrap;
+justify-content: center;
 }
 
 .photo-grid2 img {
