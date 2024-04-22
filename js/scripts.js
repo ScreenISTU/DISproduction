@@ -7870,7 +7870,9 @@ parcelRequire = function(e, r, t, n) {
                         suffix: "%"
                     }))
                       , i = new n.CountUp(this.figure_2,15381,e)
-                      , o = new n.CountUp(this.figure_3,88e3,e);
+                      , o = new n.CountUp(this.figure_3,88,u(u({}, e), {}, {
+                        suffix: "%"
+                    }));
                     r.gsap.timeline().add(this.videoBG_animation()).add(this.header_animation(.5), "-=0.55").add(this.titleBox_animation(3.25).timeScale(1.4), "-=0.25").add(this.figuresBox_animation(t, i, o).timeScale(1.6), "-=1.6").add(this.lines_animation(3))
                 }
             }, {
@@ -7885,7 +7887,9 @@ parcelRequire = function(e, r, t, n) {
                         suffix: "%"
                     }))
                       , i = new n.CountUp(this.figure_2,15381,e)
-                      , o = new n.CountUp(this.figure_3,88e3,e);
+                      , o = new n.CountUp(this.figure_3,79,u(u({}, e), {}, {
+                        suffix: "%"
+                    }));
                     r.gsap.timeline({
                         delay: .75
                     }).add(this.header_animation(.5)).add(this.titleBox_animation(3.25).timeScale(1.4), "-=0.25").add(this.figuresBox_animation(t, i, o).timeScale(1.6), "-=1.6").add(this.lines_animation(2))
