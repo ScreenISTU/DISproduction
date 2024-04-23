@@ -3,6 +3,11 @@
         display: block;
         margin: 0 auto;
     }
+.centered-image1 {
+        max-width: 50%;
+        display: block;
+        margin: 0 auto;
+    }
 
 .video-grid {
   display: flex;
